@@ -1,4 +1,4 @@
-DataAnalisys
+DataAnalysis
 ============
 
-Curso Análisis de Datos
+Curso Análisis de Datos. 
